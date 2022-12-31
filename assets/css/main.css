@@ -156,9 +156,7 @@ nav {
 .logo .logo-dark {
   display: none;
 }
-.logo-main{
-  height: 50px;
-}
+
 .navigation-bar ul li {
   display: inline-block;
   margin-left: 37px;
@@ -972,6 +970,9 @@ body.darkmode label.error {
 }
 body.darkmode a.btn-default {
   color: var(--color-black) !important;
+}
+.logo-main{
+  height: 50px;
 }
 /* media queries */
 @media (max-width: 767px) {
