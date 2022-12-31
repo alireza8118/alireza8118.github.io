@@ -156,7 +156,9 @@ nav {
 .logo .logo-dark {
   display: none;
 }
-
+.logo-main{
+  height: 50px;
+}
 .navigation-bar ul li {
   display: inline-block;
   margin-left: 37px;
